@@ -57,10 +57,11 @@
     },
     "maxSubSteps": 1
   },
-  "__version__": "1.0.4",
+  "__version__": "1.0.6",
   "script": {
     "useDefineForClassFields": false,
-    "allowDeclareFields": false
+    "allowDeclareFields": false,
+    "preserveSymlinks": true
   },
   "fbx": {
     "legacyFbxImporter": {

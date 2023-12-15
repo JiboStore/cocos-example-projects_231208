@@ -104,22 +104,32 @@
       },
       "gfx": {
         "_value": true
+      },
+      "animation": {
+        "_value": true
+      },
+      "skeletal-animation": {
+        "_value": true
       }
     },
     "includeModules": [
       "2d",
       "3d",
+      "animation",
       "base",
       "gfx-webgl",
       "gfx-webgl2",
+      "light-probe",
       "marionette",
       "particle",
       "physics-physx",
       "primitive",
       "profiler",
+      "skeletal-animation",
       "terrain",
       "tween",
-      "ui"
+      "ui",
+      "websocket"
     ],
     "noDeprecatedFeatures": {
       "value": false,
@@ -127,5 +137,5 @@
     },
     "flags": {}
   },
-  "__version__": "1.0.5"
+  "__version__": "1.0.7"
 }

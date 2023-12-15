@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.8",
+  "ver": "2.3.12",
   "importer": "gltf",
   "imported": true,
   "uuid": "e302352e-c521-4a57-bc26-a0d7a8eb7fd0",
@@ -28,6 +28,24 @@
       ],
       "subMetas": {}
     },
+    "87456": {
+      "importer": "gltf-mesh",
+      "uuid": "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@87456",
+      "displayName": "",
+      "id": "87456",
+      "name": "Mesh.019.mesh",
+      "userData": {
+        "gltfIndex": 8,
+        "triangleCount": 402
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
     "89212": {
       "importer": "gltf-scene",
       "uuid": "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@89212",
@@ -37,22 +55,184 @@
       "userData": {
         "gltfIndex": 0
       },
-      "ver": "1.0.13",
+      "ver": "1.0.14",
       "imported": true,
       "files": [
         ".json"
       ],
       "subMetas": {}
     },
-    "bcca5": {
+    "a88f6": {
       "importer": "gltf-mesh",
-      "uuid": "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@bcca5",
+      "uuid": "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@a88f6",
       "displayName": "",
-      "id": "bcca5",
-      "name": "UnnamedMesh.mesh",
+      "id": "a88f6",
+      "name": "Mesh.011.mesh",
       "userData": {
         "gltfIndex": 0,
-        "triangleCount": 6030
+        "triangleCount": 1110
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c2762": {
+      "importer": "gltf-mesh",
+      "uuid": "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@c2762",
+      "displayName": "",
+      "id": "c2762",
+      "name": "Mesh.012.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 4075
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c4192": {
+      "importer": "gltf-mesh",
+      "uuid": "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@c4192",
+      "displayName": "",
+      "id": "c4192",
+      "name": "Mesh.013.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 2714
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "145db": {
+      "importer": "gltf-mesh",
+      "uuid": "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@145db",
+      "displayName": "",
+      "id": "145db",
+      "name": "Mesh.014.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 178
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "575aa": {
+      "importer": "gltf-mesh",
+      "uuid": "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@575aa",
+      "displayName": "",
+      "id": "575aa",
+      "name": "Mesh.015.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 112
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5003a": {
+      "importer": "gltf-mesh",
+      "uuid": "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@5003a",
+      "displayName": "",
+      "id": "5003a",
+      "name": "Mesh.016.mesh",
+      "userData": {
+        "gltfIndex": 5,
+        "triangleCount": 460
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1dcb4": {
+      "importer": "gltf-mesh",
+      "uuid": "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@1dcb4",
+      "displayName": "",
+      "id": "1dcb4",
+      "name": "Mesh.017.mesh",
+      "userData": {
+        "gltfIndex": 6,
+        "triangleCount": 200
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "13f99": {
+      "importer": "gltf-mesh",
+      "uuid": "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@13f99",
+      "displayName": "",
+      "id": "13f99",
+      "name": "Mesh.018.mesh",
+      "userData": {
+        "gltfIndex": 7,
+        "triangleCount": 402
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9c123": {
+      "importer": "gltf-mesh",
+      "uuid": "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@9c123",
+      "displayName": "",
+      "id": "9c123",
+      "name": "Mesh.020.mesh",
+      "userData": {
+        "gltfIndex": 9,
+        "triangleCount": 402
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "538ca": {
+      "importer": "gltf-mesh",
+      "uuid": "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@538ca",
+      "displayName": "",
+      "id": "538ca",
+      "name": "Mesh.021.mesh",
+      "userData": {
+        "gltfIndex": 10,
+        "triangleCount": 402
       },
       "ver": "1.1.1",
       "imported": true,
@@ -293,18 +473,23 @@
   "userData": {
     "imageMetas": [
       {
+        "name": "ucb_bottom3_bump_NRM",
         "uri": "db://assets/common/models/minibus/ucb_bottom3_bump_NRM.png"
       },
       {
+        "name": "chvan_texture_nrm",
         "uri": "db://assets/common/models/minibus/chvan_texture_nrm.png"
       },
       {
+        "name": "chvan_texture_dff",
         "uri": "db://assets/common/models/minibus/chvan_texture_dff.png"
       },
       {
+        "name": "chvan_texture_chrome_nrm",
         "uri": "db://assets/common/models/minibus/chvan_texture_chrome_nrm.png"
       },
       {
+        "name": "rimstock_04",
         "uri": "db://assets/common/models/minibus/rimstock_04.png"
       }
     ],
@@ -312,7 +497,17 @@
     "redirect": "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@89212",
     "assetFinder": {
       "meshes": [
-        "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@bcca5"
+        "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@a88f6",
+        "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@c2762",
+        "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@c4192",
+        "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@145db",
+        "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@575aa",
+        "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@5003a",
+        "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@1dcb4",
+        "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@13f99",
+        "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@87456",
+        "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@9c123",
+        "e302352e-c521-4a57-bc26-a0d7a8eb7fd0@538ca"
       ],
       "skeletons": [],
       "textures": [
@@ -339,13 +534,6 @@
     "useVertexColors": false,
     "dumpMaterials": false,
     "materialDumpDir": "db://assets/common/models/minibus/Materials_minibus",
-    "meshOptimizer": {
-      "algorithm": "gltfpack",
-      "enable": true,
-      "gltfpackOptions": {
-        "si": 0.5
-      }
-    },
     "mountAllAnimationsOnPrefab": true,
     "lods": {
       "enable": false,
@@ -364,6 +552,10 @@
           "faceCount": 0.1
         }
       ]
+    },
+    "meshSimplify": {
+      "enable": true,
+      "targetRatio": 1
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.8",
+  "ver": "2.3.12",
   "importer": "fbx",
   "imported": true,
   "uuid": "ac748162-d4fa-4662-b822-d37a5c2147fb",
@@ -89,7 +89,7 @@
       "displayName": "",
       "id": "034ca",
       "name": "tree02.prefab",
-      "ver": "1.0.13",
+      "ver": "1.0.14",
       "imported": true,
       "files": [
         ".json"

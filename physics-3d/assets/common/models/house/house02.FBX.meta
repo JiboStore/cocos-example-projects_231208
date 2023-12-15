@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.8",
+  "ver": "2.3.12",
   "importer": "fbx",
   "imported": true,
   "uuid": "c4995fba-9b4b-4968-957c-6eb66f4e73eb",
@@ -90,7 +90,7 @@
       "displayName": "",
       "id": "f5095",
       "name": "house02.prefab",
-      "ver": "1.0.13",
+      "ver": "1.0.14",
       "imported": true,
       "files": [
         ".json"
